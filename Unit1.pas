@@ -34,7 +34,7 @@ end;
 
 procedure TForm1.Button2Click(Sender: TObject);
 begin
-  button2.caption := 'I was clicked, yay!'; // change
+  button2.caption := 'I was clicked, yay!'; // change me
 end;
 
 procedure TForm1.Button3Click(Sender: TObject);
