@@ -6,9 +6,14 @@ function Woof : string;
 
 implementation
 
+uses
+  ImaNewFile;
 function Woof : string;
 begin
-  result := 'Woof!';
+  if LookAtThisSnazzyFunction then
+    result := 'foow!'
+  else
+    result := 'Woof!';
 end;
 
 end.

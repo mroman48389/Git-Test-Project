@@ -3,7 +3,8 @@ program GitTestProject;
 uses
   Vcl.Forms,
   Unit1 in 'Unit1.pas' {Form1},
-  Dog in 'Dog.pas';
+  Dog in 'Dog.pas',
+  ImaNewFile in 'ImaNewFile.pas';
 
 {$R *.res}
 
