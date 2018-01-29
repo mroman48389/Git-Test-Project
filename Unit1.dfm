@@ -49,4 +49,12 @@ object Form1: TForm1
     TabOrder = 3
     OnClick = Button4Click
   end
+  object CheckBox1: TCheckBox
+    Left = 80
+    Top = 232
+    Width = 97
+    Height = 17
+    Caption = 'CheckBox1'
+    TabOrder = 4
+  end
 end

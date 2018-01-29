@@ -12,6 +12,7 @@ type
     Button2: TButton;
     Button3: TButton;
     Button4: TButton;
+    CheckBox1: TCheckBox;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure Button3Click(Sender: TObject);
