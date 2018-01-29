@@ -47,7 +47,7 @@ end;
 
 procedure TForm1.Button4Click(Sender: TObject);
 begin
-  button1.caption := 'Meow';
+  button1.caption := 'Meow. Purr.';
 end;
 
 end.
